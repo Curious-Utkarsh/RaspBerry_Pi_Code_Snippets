@@ -17,7 +17,6 @@ if status != 0:
 '''
 > Use the DMA PWM of the pigpio library to drive the servo
 > Map the servo angle (0 ~ 180 degree) to (-90 ~ 90 degree)
-
 '''
 
 class Servo():
